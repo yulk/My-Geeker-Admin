@@ -1,0 +1,35 @@
+[
+    {
+        "id": 1,
+        "nickname": "管理员",
+        "username": "admin",
+        "password_hash": "scrypt:32768:8:1$n6sISWPzrhINcBF5$a003ef820e39a6406d27d2b1c9c1397bafb0e07077f6e90fbaabbe85ecffc8d808632fbbc4feb83d4e3d66bc5997fcfb0a294a8c982f5d52038242b60619bba0",
+        "mobile": "13907311234",
+        "email": "4876270@qq.com",
+        "avatar": null,
+        "roles": "admin",
+        "create_at": "2024-03-23 18:43:00.555118"
+    },
+    {
+        "id": 2,
+        "nickname": "编辑",
+        "username": "editor",
+        "password_hash": "scrypt:32768:8:1$SS574acs2Sk1meo2$b3fb5036fdbd987140c00e00ca2c2ef5316d4769906b5f28cc981283c8cf239a60902e67fb3c4ff87887c37295b9d134134c648a4a27c2858ad25a43ff4ee331",
+        "mobile": "13907311234",
+        "email": "4876270@qq.com",
+        "avatar": null,
+        "roles": "editor",
+        "create_at": "2024-03-23 18:43:00.736107"
+    },
+    {
+        "id": 3,
+        "nickname": "龘西西",
+        "username": "daxixi",
+        "password_hash": "scrypt:32768:8:1$t8Iw9lOVxh1Mix42$18eadbdb4997898aa6e7c661d38e0c28ad35dc396ecc2aa52561c359f92169f85f807443ec70b20fe9c08e52cfbcb8d8ae535f2ee07399b3e89aeb268639873a",
+        "mobile": "13907311234",
+        "email": "likeyu@gmail.com",
+        "avatar": null,
+        "roles": "admin|editor",
+        "create_at": "2024-03-23 18:43:00.910317"
+    }
+]

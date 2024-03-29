@@ -1,0 +1,1 @@
+[{"id":1,"name":"管理员","code":"admin","enable":1,"remark":null,"details":"管理员","sort":1,"create_time":"2024-01-19 17:02:47.769504","update_time":"2024-01-19 17:02:48.022754"},{"id":2,"name":"普通用户","code":"common","enable":1,"remark":null,"details":"只有查看，没有增删改权限","sort":2,"create_time":"2024-01-19 17:02:47.769504","update_time":"2024-01-19 17:02:48.022754"}]

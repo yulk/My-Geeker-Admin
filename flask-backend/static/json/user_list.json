@@ -1,0 +1,171 @@
+{
+    "code": 200,
+    "msg": "成功",
+    "data": {
+        "list": [
+            {
+                "id": "188809847655516924",
+                "username": "吴秀兰",
+                "gender": 1,
+                "user": {
+                    "detail": {
+                        "age": 19
+                    }
+                },
+                "idCard": "188809847655516924",
+                "email": "j.qbonr@xskzhwtg.et",
+                "address": "西藏自治区 日喀则地区",
+                "createTime": "2009-03-27 20:15:30",
+                "status": 0,
+                "avatar": "https://i.imgtg.com/2023/01/16/QRa0s.jpg"
+            },
+            {
+                "id": "179016127332156647",
+                "username": "范明",
+                "gender": 2,
+                "user": {
+                    "detail": {
+                        "age": 28
+                    }
+                },
+                "idCard": "179016127332156647",
+                "email": "y.jdxhjiy@pisonngq.pk",
+                "address": "辽宁省 鞍山市",
+                "createTime": "2000-09-09 14:02:06",
+                "status": 0,
+                "avatar": "https://i.imgtg.com/2023/01/16/QRqMK.jpg"
+            },
+            {
+                "id": "316214248586183175",
+                "username": "胡霞",
+                "gender": 2,
+                "user": {
+                    "detail": {
+                        "age": 10
+                    }
+                },
+                "idCard": "316214248586183175",
+                "email": "i.nnjqmipou@kbbplehxe.to",
+                "address": "湖北省 宜昌市",
+                "createTime": "2004-10-18 04:22:53",
+                "status": 0,
+                "avatar": "https://i.imgtg.com/2023/01/16/QRqMK.jpg"
+            },
+            {
+                "id": "750116624052258530",
+                "username": "彭芳",
+                "gender": 2,
+                "user": {
+                    "detail": {
+                        "age": 21
+                    }
+                },
+                "idCard": "750116624052258530",
+                "email": "j.bljhgghfxh@mjb.edu",
+                "address": "山东省 烟台市",
+                "createTime": "1970-03-05 18:48:33",
+                "status": 0,
+                "avatar": "https://i.imgtg.com/2023/01/16/QRa0s.jpg"
+            },
+            {
+                "id": "512615816866354386",
+                "username": "周勇",
+                "gender": 2,
+                "user": {
+                    "detail": {
+                        "age": 18
+                    }
+                },
+                "idCard": "512615816866354386",
+                "email": "b.fhdhfjq@stmdrrznv.gov",
+                "address": "甘肃省 嘉峪关市",
+                "createTime": "2022-11-18 15:53:58",
+                "status": 1,
+                "avatar": "https://i.imgtg.com/2023/01/16/QR57a.jpg"
+            },
+            {
+                "id": "728414611245478884",
+                "username": "黎敏",
+                "gender": 1,
+                "user": {
+                    "detail": {
+                        "age": 30
+                    }
+                },
+                "idCard": "728414611245478884",
+                "email": "g.dvqjuclp@nogifjyvl.vn",
+                "address": "天津 天津市",
+                "createTime": "2003-04-03 06:25:33",
+                "status": 0,
+                "avatar": "https://i.imgtg.com/2023/01/16/QR57a.jpg"
+            },
+            {
+                "id": "312466272265380485",
+                "username": "贾洋",
+                "gender": 1,
+                "user": {
+                    "detail": {
+                        "age": 17
+                    }
+                },
+                "idCard": "312466272265380485",
+                "email": "d.hxxmjxwf@cfuu.mz",
+                "address": "福建省 漳州市",
+                "createTime": "2014-04-25 10:49:46",
+                "status": 0,
+                "avatar": "https://i.imgtg.com/2023/01/16/QR57a.jpg"
+            },
+            {
+                "id": "636317254149649681",
+                "username": "唐霞",
+                "gender": 2,
+                "user": {
+                    "detail": {
+                        "age": 11
+                    }
+                },
+                "idCard": "636317254149649681",
+                "email": "b.muxui@mtory.tv",
+                "address": "浙江省 衢州市",
+                "createTime": "1994-08-17 01:53:02",
+                "status": 0,
+                "avatar": "https://i.imgtg.com/2023/01/16/QRa0s.jpg"
+            },
+            {
+                "id": "076568236411481557",
+                "username": "冯娜",
+                "gender": 2,
+                "user": {
+                    "detail": {
+                        "age": 16
+                    }
+                },
+                "idCard": "076568236411481557",
+                "email": "q.obr@qhqgyyfdm.in",
+                "address": "天津 天津市",
+                "createTime": "1992-04-26 02:26:54",
+                "status": 1,
+                "avatar": "https://i.imgtg.com/2023/01/16/QRqMK.jpg"
+            },
+            {
+                "id": "163683315652895667",
+                "username": "程娜",
+                "gender": 1,
+                "user": {
+                    "detail": {
+                        "age": 16
+                    }
+                },
+                "idCard": "163683315652895667",
+                "email": "c.vgxknppq@dckibf.mw",
+                "address": "海外 海外",
+                "createTime": "1987-09-20 03:53:07",
+                "status": 0,
+                "avatar": "https://i.imgtg.com/2023/01/16/QRa0s.jpg"
+            }
+        ],
+        "pageNum": 1,
+        "pageSize": 10,
+        "total": 2000
+    }
+}

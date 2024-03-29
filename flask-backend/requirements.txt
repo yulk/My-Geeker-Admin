@@ -1,0 +1,55 @@
+flask-jwt-extended==4.6.0
+flask-migrate==4.0.7
+authlib==1.3.0
+    # via -r requirements/examples.in
+blinker==1.7.0
+    # via flask
+cffi==1.16.0
+    # via cryptography
+click==8.1.7
+    # via flask
+cryptography==42.0.5
+    # via authlib
+flask==3.0.2
+    # via flask-sqlalchemy
+flask-sqlalchemy==3.1.1
+    # via -r requirements/examples.in
+greenlet==3.0.3
+    # via sqlalchemy
+itsdangerous==2.1.2
+    # via flask
+jinja2==3.1.3
+    # via flask
+markupsafe==2.1.5
+    # via
+    #   jinja2
+    #   werkzeug
+marshmallow==3.21.1
+    # via marshmallow-dataclass
+marshmallow-dataclass==8.6.1
+    # via -r requirements/examples.in
+mypy-extensions==1.0.0
+    # via typing-inspect
+packaging==24.0
+    # via marshmallow
+pycparser==2.21
+    # via cffi
+sqlalchemy==2.0.29
+    # via flask-sqlalchemy
+typing-extensions==4.10.0
+    # via
+    #   marshmallow-dataclass
+    #   sqlalchemy
+    #   typing-inspect
+typing-inspect==0.9.0
+    # via marshmallow-dataclass
+werkzeug==3.0.1
+    # via flask
+pymssql==2.2.11
+# mssql+pymssql://<username>:<password>@<freetds_name>/?charset=utf8
+pymysql==1.1.0
+psycopg2==2.9.9
+pandas==2.2.1
+marshmallow-sqlalchemy==1.0.0
+flask-marshmallow==1.2.1
+Flask-Reuploaded==1.4.0

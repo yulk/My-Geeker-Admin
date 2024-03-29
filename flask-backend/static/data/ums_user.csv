@@ -1,0 +1,4 @@
+id,nickname,username,password,mobile,email,avatar,roles,
+1,管理员,admin,12345678,13907311234,4876270@qq.com,,admin,
+2,编辑,editor,12345678,13907311234,4876270@qq.com,,editor,
+3,龘西西,daxixi,12345678,13907311234,likeyu@gmail.com,,admin|editor,
