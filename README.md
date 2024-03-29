@@ -22,7 +22,7 @@ pip install -r requirements.txt
 flask init_table
 flask run
 ```
-
+## admin 密码 12345678
 
 ## 功能
 
